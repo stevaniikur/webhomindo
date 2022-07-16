@@ -9,4 +9,3 @@ class pesanan extends Model
 {
     use HasFactory;
 }
-/** */

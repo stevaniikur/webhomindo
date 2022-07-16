@@ -13,4 +13,3 @@ class rent extends Model
     protected $primaryKeys = 'id';
     protected $fillable = ['id', 'name', 'slug', 'price', 'location', 'address'];
 }
-/** */

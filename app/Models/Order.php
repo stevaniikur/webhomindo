@@ -12,4 +12,3 @@ class Order extends Model
     protected $primaryKeys = 'id';
     protected $fillable = ['id','number','total_price', 'payment_status', 'snap_token'];
 }
-/** */

@@ -12,4 +12,3 @@ class agen extends Model
     protected $primaryKeys = 'id';
     protected $fillable = ['id','name','phone_number'];
 }
-/** */

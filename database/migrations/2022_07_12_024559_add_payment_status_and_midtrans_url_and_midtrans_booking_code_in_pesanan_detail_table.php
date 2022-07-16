@@ -19,7 +19,6 @@ return new class extends Migration
             $table->string('midtrans_booking_code')->nullable()->after('midtrans_url');
         });
     }
-/** */
     /**
      * Reverse the migrations.
      *

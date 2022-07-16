@@ -12,4 +12,3 @@ class rentBenefit extends Model
     protected $primaryKeys = 'id';
     protected $fillable = ['id', 'kamar_mandi', 'kamar_tidur', 'luas'];
 }
-/** */

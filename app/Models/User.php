@@ -53,4 +53,3 @@ class User extends Authenticatable
         return $this->hasMany('app\pesanans', 'user_id', 'id');
     }
 }
-/** */

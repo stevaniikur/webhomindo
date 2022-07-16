@@ -13,4 +13,3 @@ class discounts extends Model
     protected $primaryKeys = 'id';
     protected $fillable = ['id','name','code', 'description', 'percentage'];
 }
-/** */
