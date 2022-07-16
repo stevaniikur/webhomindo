@@ -10,4 +10,3 @@ js:
     not-name:
       - vite.config.js
 css: true
-/** */
